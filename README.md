@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! 👋
 
 <!--
 **fundekaustubh/fundekaustubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My name is Kaustubh Funde (he / him) and I am a MERN stack developer with working knowledge of MySQL and PostgreSQL as well. I enjoy working on backend as a whole.
+## I am going to start my transition from Web 2.0 to Web 3.0 soon, mainly because cryptography itself is very stimulating for me and I hope to grow as a developer in this journey.
+[![My Skills](https://skillicons.dev/icons?i=c,c++,python,html,css,js,react,mongodb,mysql,postgresql)](https://skillicons.dev)
