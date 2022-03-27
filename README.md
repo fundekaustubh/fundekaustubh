@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 #### My name is Kaustubh Funde (he / him) and I am a MERN stack developer with working knowledge of MySQL and PostgreSQL as well. I enjoy working on backend as a whole.
 #### I am going to start my transition from Web 2.0 to Web 3.0 soon, mainly because cryptography itself is very stimulating for me and I hope to grow as a developer in this journey.
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mongodb,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,node,react,mongodb,mysql,postgresql)](https://skillicons.dev)
