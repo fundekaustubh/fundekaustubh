@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 #### My name is Kaustubh Funde and I am a MERN stack developer with working knowledge of MySQL and PostgreSQL as well. I enjoy working on backend as a whole and creating full stack applications from scratch, seometimes with a bit of Machine Learning sprinkled in.
 #### I hope to continue growing as a developer. Let's connect!
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,bootstrap,js,git,nodejs,expressjs,react,mongodb,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,bootstrap,js,git,nodejs,expressjs,react,mongodb,mysql,postgresql,hadoop,spark)](https://skillicons.dev)
