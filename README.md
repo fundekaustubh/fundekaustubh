@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My name is Kaustubh Funde and I am an incoming SWE at Nutanix, working in the network virtualization domain. I enjoy working on backend as a whole and creating full stack applications from scratch, seometimes with a bit of Machine Learning sprinkled in.
+#### My name is Kaustubh Funde and I am an incoming SWE at Nutanix, working in the network virtualization domain. I enjoy working on backend as a whole and creating full stack applications from scratch, sometimes with a bit of Machine Learning sprinkled in.
 #### I hope to continue growing as a developer. Let's connect!
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,bootstrap,js,git,nodejs,expressjs,react,mongodb,mysql,postgresql)](https://skillicons.dev)
